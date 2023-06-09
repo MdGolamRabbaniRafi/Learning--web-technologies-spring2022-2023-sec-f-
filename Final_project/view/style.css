@@ -1,0 +1,75 @@
+
+.c1{
+
+    color: rgb(6, 107, 46);
+}
+.c3{
+
+    color: rgb(220, 239, 228);
+}
+
+.c4 input[type="text"],input[type="password"],input[type="email"] {
+    background-color: rgb(65, 65, 98);
+    border-radius: 5px; 
+    color: white; 
+  }
+  .c5 input[type="file"],input[type="submit"] {
+    background-color: rgb(9, 105, 54);
+    color: rgb(241, 217, 217); 
+  }
+  .view_profile{
+
+    border: 1px solid black;
+    width: 820px; 
+    height: 350px;
+    background-color: rgb(120, 149, 120);
+     margin: 90px 70px; 
+     margin-left: 30px; 
+     padding: 10px; 
+   position: relative;
+   left : 300px;
+   top: 100px;
+ }
+ .registration{
+  border: 1px solid black;
+  width: 820px; 
+  height: 350px;
+  background-color: rgb(120, 149, 120);
+   margin: 90px 70px; 
+   margin-left: 30px; 
+   padding: 10px; 
+ position: relative;
+ left : 300px;
+ top: 100px;
+}
+ 
+.c2{
+
+    border: 1px solid black;
+    width: 420px; 
+    height: 250px;
+    background-color: rgb(120, 149, 120);
+     margin: 90px 70px; 
+     margin-left: 200px; 
+     padding: 10px; 
+   position: relative;
+   left : 300px;
+   top: 100px;
+ }
+ .c6 input[type="submit"] {
+    background-color: rgb(9, 105, 54);
+    padding: 10px; 
+    color: rgb(241, 217, 217); 
+  }
+  .c8 input[type="submit"] {
+    background-color: red;
+    color: rgb(241, 217, 217);
+  }
+  
+  .c7 input[type="submit"] {
+    background-color: red;
+    padding: 10px; 
+    color: rgb(241, 217, 217); 
+  }
+ 
+  
